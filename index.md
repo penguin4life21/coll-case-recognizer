@@ -1,1 +1,1 @@
-<h1>Hello</h1>
+<h1>COLL Case Recognizer for Speedcubing</h1>
